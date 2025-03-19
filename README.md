@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Everton ,Bem-Vindo(a) ao meu GitHub!!
 ##
-### Cursando Engenharia de Software , Desenvolvedor Back-end & Front-end(Júnior)!!
+### Cursando Engenharia de Computação , Desenvolvedor Back-end & Front-end(Júnior)!!
 ##
 <div align="center">
   <a href="https://github.com/SPIN-DEV">
